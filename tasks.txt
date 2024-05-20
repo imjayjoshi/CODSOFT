@@ -1,0 +1,7 @@
+Breakfast
+Implement logics
+Lunch
+Code
+Dinner
+Project
+Learn Js DOM 
