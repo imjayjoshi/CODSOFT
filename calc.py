@@ -39,7 +39,7 @@ calc_root = Tk()
 calc_root.title('Calculator')
 calc_root.geometry('430x500')
 calc_root.config(bg= "black")
-# calc_root.resizable(0, 0)
+calc_root.resizable(0, 0)
 
 
 result = Entry(
