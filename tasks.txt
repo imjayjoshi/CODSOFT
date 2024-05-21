@@ -2,6 +2,8 @@ Breakfast
 Implement logics
 Lunch
 Code
-Dinner
 Project
-Learn Js DOM 
+Learn Js DOM
+Gym
+Eat
+Code
